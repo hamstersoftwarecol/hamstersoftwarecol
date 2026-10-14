@@ -69,6 +69,19 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
   <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white" />
 </p>
 
+### Librerías JavaScript
+
+<p>
+  <img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&amp;logo=swiper&amp;logoColor=white" />
+  <img alt="Odometer.js" src="https://img.shields.io/badge/Odometer.js-34495E?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Moment.js" src="https://img.shields.io/badge/Moment.js-2B8C67?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Masonry" src="https://img.shields.io/badge/Masonry-E5A321?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Slick" src="https://img.shields.io/badge/Slick-3498DB?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Select2" src="https://img.shields.io/badge/Select2-5897FB?style=for-the-badge&amp;logoColor=white" />
+  <img alt="jQuery UI" src="https://img.shields.io/badge/jQuery%20UI-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" />
+</p>
+
 ### Backend y APIs
 
 <p>
