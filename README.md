@@ -80,7 +80,6 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
   <img alt="GoRouter" src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&amp;logoColor=white" />
   <img alt="Dio" src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&amp;logoColor=white" />
   <img alt="Freezed" src="https://img.shields.io/badge/Freezed-00A6D6?style=for-the-badge&amp;logoColor=white" />
-  <img alt="Almacenamiento seguro" src="https://img.shields.io/badge/Almacenamiento%20seguro-455A64?style=for-the-badge&amp;logoColor=white" />
 </p>
 
 ### Bases de datos y caché
