@@ -72,6 +72,11 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
 ### Librerías JavaScript
 
 <p>
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white" />
+  <img alt="AOS" src="https://img.shields.io/badge/AOS-16A085?style=for-the-badge&amp;logoColor=white" />
+  <img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-7066E0?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&amp;logo=alpinedotjs&amp;logoColor=white" />
+  <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-538DD7?style=for-the-badge&amp;logo=fontawesome&amp;logoColor=white" />
   <img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&amp;logo=swiper&amp;logoColor=white" />
   <img alt="Odometer.js" src="https://img.shields.io/badge/Odometer.js-34495E?style=for-the-badge&amp;logoColor=white" />
   <img alt="Moment.js" src="https://img.shields.io/badge/Moment.js-2B8C67?style=for-the-badge&amp;logoColor=white" />
