@@ -36,6 +36,7 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
 ### Lenguajes
 
 <p>
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
@@ -53,6 +54,9 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
 ### Backend, datos e infraestructura
 
 <p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
   <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&amp;logo=hono&amp;logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
