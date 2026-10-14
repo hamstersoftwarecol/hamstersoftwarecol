@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">🐹 Hola, somos Hamster Software</h1>
+<h1 align="center"> Hola, somos Hamster Software</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Desarrollo+de+software+a+la+medida;Aplicaciones+web+y+m%C3%B3viles;Datos+e+inteligencia+artificial;Desde+Popay%C3%A1n%2C+Colombia" alt="Desarrollo de software a la medida, aplicaciones web y móviles, datos e inteligencia artificial desde Popayán, Colombia" />
