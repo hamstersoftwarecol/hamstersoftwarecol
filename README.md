@@ -159,7 +159,8 @@ En este espacio compartimos proyectos de software empresarial, comercio electró
 | :--- | :--- | :--- |
 | [Contabilidad para PYMES](https://github.com/hamstersoftwarecol/contabilidad) | Gestión multiempresa, facturación, cartera, reportes y auditoría. | PHP · Laravel |
 | [Atención médica con IA](https://github.com/hamstersoftwarecol/atencionmedicaporia) | Gestión de clínicas y reserva de citas con agentes de inteligencia artificial. | Nuxt · Cloudflare D1 · Workers AI |
-| [Daniela Quintero Boutique](https://github.com/hamstersoftwarecol/daniela-quintero-boutique) | Tienda virtual con checkout por WhatsApp. | Nuxt · Hono · SQLite |
+| [https://github.com/hamstersoftwarecol/popayanlink) | PopayanLink: SaaS automotriz para alquiler, taller y venta de vehículos con Astro, Cloudflare D1/KV y agentes de voz IA
+
 
 [Explora nuestros repositorios →](https://github.com/hamstersoftwarecol?tab=repositories)
 
